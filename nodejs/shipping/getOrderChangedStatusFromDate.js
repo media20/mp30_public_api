@@ -1,5 +1,5 @@
 const moment = require('moment');
-const API = require('./API');
+const API = require('../API');
 
 (async function () {
     const api = new API({
