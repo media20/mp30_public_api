@@ -13,6 +13,7 @@ I have to install nodejs before running
 - /shipping/updateOrder.js - create apiship order by client order ID
 - /shipping/getOrder.js - get apiship order by client order ID
 - /shipping/getOrderStatus.js - get apiship order status by client order ID
+- /shipping/getOrderStatusHistory.js - get apiship order status history by client order ID
 
 
 
