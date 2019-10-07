@@ -8,3 +8,11 @@ I have to install nodejs before running
 5) `node getVersion.js`
 
 
+- getVersion.js - get latest API version
+- /shipping/createOrder.js - create apiship order with MaxiPost and defaults
+- /shipping/updateOrder.js - create apiship order by client order ID
+- /shipping/getOrder.js - get apiship order by client order ID
+
+
+
+
