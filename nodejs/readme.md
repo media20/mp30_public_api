@@ -14,6 +14,7 @@ I have to install nodejs before running
 - /shipping/getOrder.js - get apiship order by client order ID
 - /shipping/getOrderStatus.js - get apiship order status by client order ID
 - /shipping/getOrderStatusHistory.js - get apiship order status history by client order ID
+- /shipping/getOrderChangedStatusFromDate.js - get apiship all orders statuses changed after specified date
 
 
 
