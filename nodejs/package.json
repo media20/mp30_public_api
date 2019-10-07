@@ -1,0 +1,16 @@
+{
+  "name": "trimpo-node-public-api-apiship-sdk",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@pandanax",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "request": "^2.88.0"
+  }
+}
