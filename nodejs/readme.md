@@ -12,6 +12,7 @@ I have to install nodejs before running
 - /shipping/createOrder.js - create apiship order with MaxiPost and defaults
 - /shipping/updateOrder.js - create apiship order by client order ID
 - /shipping/getOrder.js - get apiship order by client order ID
+- /shipping/getOrderStatus.js - get apiship order status by client order ID
 
 
 
