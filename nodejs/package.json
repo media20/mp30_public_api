@@ -10,7 +10,7 @@
   "dependencies": {
     "crypto": "^1.0.1",
     "fs": "0.0.1-security",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "request": "^2.88.0"
   }
 }
